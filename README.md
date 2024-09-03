@@ -1,10 +1,10 @@
-# [Your Company Name]
+# Blue Nile Tech
 
-Welcome to **[Your Company Name]**'s GitHub repository. We specialize in providing innovative technology solutions to help businesses thrive in the digital age.
+Welcome to **Blue Nile Tech**'s GitHub repository. We specialize in providing innovative technology solutions to help businesses thrive in the digital age.
 
 ## About Us
 
-At **[Your Company Name]**, we focus on delivering high-quality software solutions, IT consulting, and digital transformation services. Our mission is to empower businesses with cutting-edge technology to drive growth and success.
+At **Blue Nile Tech**, we focus on delivering high-quality software solutions, IT consulting, and digital transformation services. Our mission is to empower businesses with cutting-edge technology to drive growth and success.
 
 ## Services
 
@@ -44,9 +44,9 @@ We are a team of experienced developers, designers, and IT professionals dedicat
 
 ## Get in Touch
 
-- **Email**: [info@yourcompany.com](mailto:info@yourcompany.com)
-- **Website**: [www.yourcompany.com](https://www.yourcompany.com)
-- **LinkedIn**: [Your Company LinkedIn](https://www.linkedin.com/yourcompany)
+- **Email**: [info@yourcompany.com](mailto:info@BlueNillTech.com)
+- **Website**: [www.yourcompany.com](https://www.BlueNileTech.com)
+- **LinkedIn**: [Your Company LinkedIn](https://www.linkedin.com/BlueNileTech)
 
 ## License
 
