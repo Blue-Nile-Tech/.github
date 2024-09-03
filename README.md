@@ -46,7 +46,7 @@ We are a team of experienced developers, designers, and IT professionals dedicat
 
 - **Email**: [info@Blue Nile Tech.com](mailto:info@BlueNillTech.com)
 - **Website**: [www.Blue-Nile-Tech.com](https://www.BlueNileTech.com)
-- **LinkedIn**: [Blue Nile Tech LinkedIn](https://www.linkedin.com/BlueNileTech)
+- **LinkedIn**: [Blue Nile Tech](https://www.linkedin.com/BlueNileTech)
 
 ## License
 
