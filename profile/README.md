@@ -1,6 +1,6 @@
 # Blue Nile Tech
 
-Welcome to **Blue Nile Tech**'s GitHub repository. We specialize in providing innovative technology solutions to help businesses thrive in the digital age.
+Welcome to **Blue Nile Tech**'s GitHub repository. We provide innovative technology solutions to help businesses thrive in the digital age.
 
 ## About Us
 
@@ -9,7 +9,7 @@ At **Blue Nile Tech**, we focus on delivering high-quality software solutions, I
 ## Services
 
 - **Software Development**: Custom web and mobile applications tailored to your business needs.
-- **IT Consulting**: Strategic IT consulting services to optimize your technology investments.
+- **IT Consulting**: Strategic IT consulting services to optimize technology investments.
 - **Digital Marketing**: Comprehensive digital marketing services to enhance your online presence.
 - **Cloud Solutions**: Cloud migration, deployment, and management services.
 
@@ -44,9 +44,9 @@ We are a team of experienced developers, designers, and IT professionals dedicat
 
 ## Get in Touch
 
-- **Email**: [info@yourcompany.com](mailto:info@BlueNillTech.com)
-- **Website**: [www.yourcompany.com](https://www.BlueNileTech.com)
-- **LinkedIn**: [Your Company LinkedIn](https://www.linkedin.com/BlueNileTech)
+- **Email**: [info@BlueNileTech.com](mailto:info@BlueNillTech.com)
+- **Website**: [www.BlueNileTech.com](https://www.BlueNileTech.com)
+- **LinkedIn**: [Blue Nile Tech](https://www.linkedin.com/BlueNileTech)
 
 ## License
 
